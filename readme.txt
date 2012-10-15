@@ -1,10 +1,12 @@
 === SMTP Cycle Email ===
+Plugin URI: http://www.cybernetikz.com
 Contributors: cybernetikz
 Donate link: 
-Tags: smtp, cycle, email, spin text, smtp cycle email, smtp email
+Tags: smtp,cycle,email,spin text,smtp cycle email,smtp email
 Requires at least: 2.9.2
 Tested up to: 3.4.2
 Stable tag: 1.0
+License: GPL2
 
 Using this plugins, you can send email to different user using various smtp server with spinning text feature.
 
@@ -17,7 +19,7 @@ You can visit our site <a href="http://www.cybernetikz.com/">www.cybernetikz.com
 == Installation ==
 
 1. Download the plugin and extract the files
-2. Upload "smtp-cycle-plugins" to your wp-content/plugins/ directory
+2. Upload "smtp-cycle-email" to your wp-content/plugins/ directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Check the "SMTP Server" Tab created by this plugins for setup.
 
