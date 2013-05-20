@@ -4,7 +4,7 @@ Contributors: cybernetikz
 Donate link: 
 Tags: smtp,cycle,email,spin text,smtp cycle email,smtp email
 Requires at least: 2.9.2
-Tested up to: 3.4.2
+Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPL2
 
@@ -25,7 +25,7 @@ Main key feature for this plugins
 
 There is a publicly accessible web page file which triggers the cron script every 5 minutes. You can use <a href="http://webcron.org/">webcron.org</a> or cpanel to set cron job to simply load the page. The page, when loaded, just grabs the "scheduled" email that is to be sent out and send it out using the next-available SMTP server.
 
-Each time the SMTP servers cycled. For example, after server 1 is used, then the next server attempted. Only use servers marked as active. If the outbound message is not successful, then mark the SMTP server as INACTIVE and reset the message to "scheduled". If the message is successful, mark the message as sent (insert the date-time) and also mark the SMTP server’s `date last used` so that the next time the script runs, it knows to use the OLDEST use SMTP server and can keep cycling through them.
+Each time the SMTP servers cycled. For example, after server 1 is used, then the next server attempted. Only use servers marked as active. If the outbound message is not successful, then mark the SMTP server as INACTIVE and reset the message to "scheduled". If the message is successful, mark the message as sent (insert the date-time) and also mark the SMTP server's `date last used` so that the next time the script runs, it knows to use the OLDEST use SMTP server and can keep cycling through them.
 
 
 You can visit our site <a href="http://www.cybernetikz.com/web-development/wordpress/wordpress-plugins-smtp-cycle-email/">www.cybernetikz.com/</a>
