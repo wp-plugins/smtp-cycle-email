@@ -12,7 +12,7 @@ Using this plugins, you can send email to different user using various smtp serv
 
 == Description ==
 
-<strong>If you need support to get this plugin installed or to have a customized version of the plugin please send us an email to this address <a href="mailto:contact@cybernetikz.com">contact@cybernetikz.com</a></strong>.
+<strong>If you need paid support to get this plugin installed or to have a customized version of the plugin please send us an email to this address <a href="mailto:contact@cybernetikz.com">contact@cybernetikz.com</a></strong>.
 
 Using this plugins, you can send email to different user using various smtp server with spinning text feature. You can set cron job from cpanel to send email automatically from you server, using your-domain/wp-content/plugins/smtp-cycle-email/cron.php this file.
 
