@@ -24,7 +24,7 @@ Using this plugins, you can send email to different user using various smtp serv
 >
 > <strong>c. Auditing your wordpress theme & hosting environment</strong>
 >
-> <strong>d. Google analytics & webmaster tools</strong>
+> <strong>d. Google analytics & webmaster tools support</strong>
 >
 > please send an email to this address <a href="mailto:support@cybernetikz.com">support@cybernetikz.com</a>
 
